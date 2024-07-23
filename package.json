@@ -1,0 +1,22 @@
+{
+  "name": "test_misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@types/filesystem": "^0.0.36",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
